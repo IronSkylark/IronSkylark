@@ -1,5 +1,5 @@
 baseURL = "https://www.ironskylark.ml"
-title = "Iron Skylark"
+title = "铁云雀"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -9,8 +9,8 @@ disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
 ## Change this two to switch between different language
-languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
-defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
+languageCode = "zh-cn"  # For RSS, view https://www.rssboard.org/rss-language-codes
+defaultContentLanguage = "zh-hans"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
@@ -31,7 +31,7 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "Iron Skylark" # You can also set author in post front matter individually
+  author = "铁云雀" # You can also set author in post front matter individually
   subTitle = "Iron Skylark"
 
   # Source URL of the website, will appear in the footer
@@ -115,23 +115,23 @@ paginate = 10
 
 [menu]
   [[menu.nav]]
-    name = "Home"
+    name = "主页"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Archives"
+    name = "归档"
     url = "/archives/"
     weight = 2
   [[menu.nav]]
-    name = "About"
+    name = "关于本站"
     url = "/about/"
     weight = 3
   [[menu.nav]]
-    name = "Search"
+    name = "站内搜索"
     url = "/search/"
     weight = 4
   [[menu.nav]]
-    name = "RSS"
+    name = "RSS订阅"
     url = "/index.xml"
     weight = 5
 
