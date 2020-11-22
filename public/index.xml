@@ -6,7 +6,26 @@
     <description>Recent content on 铁云雀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ironskylark.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ironskylark.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人间</title>
+      <link>https://www.ironskylark.ml/post/ren_jian/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ironskylark.ml/post/ren_jian/</guid>
+      <description>&lt;p&gt;作者：星期五&lt;/p&gt;
+&lt;p&gt;原曲：刘德华《笨小孩》&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于本站</title>
+      <link>https://www.ironskylark.ml/about/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.ironskylark.ml/about/</guid>
+      <description>“铁云雀”是一个有志于马克思主义理论学习和宣传的网络自发团体，目前在自建网站上发布文章。 网站刚刚起步，现诚邀广大同志来稿，我们将在充分尊重作者意愿的前提下精选并编辑发布。 征稿类别： 马克思主义哲学、政治</description>
+    </item>
+    
     <item>
       <title>辩证法不是变戏法</title>
       <link>https://www.ironskylark.ml/post/bian_zheng_fa_bu_shi_bian_xi_fa/</link>
@@ -15,18 +34,6 @@
       <guid>https://www.ironskylark.ml/post/bian_zheng_fa_bu_shi_bian_xi_fa/</guid>
       <description>&lt;p&gt;作者: 红雨&lt;/p&gt;
 &lt;p&gt;我们在生活中常能看到“辩证看待”“全面看待”这类说法，仿佛只要使用“辩证”一词就能获得一种无法言说的高级感和正确性。辩证看待毛泽东，辩证看待资本家，辩证看待赌王、毒枭，乃至于辩证看待历史、辩证看待一切不公……通过如此“辩证”的手法，事物往往变得黑白不分、是非不明，闹出笑话。辩证法不是变戏法，可以说，当今语境下的“辩证”已经完全变质成为“庸俗辩证法”，被扭曲为折衷主义，机会主义、调和主义。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://www.ironskylark.ml/about/</link>
-      <pubDate>Sat, 11 Apr 2020 19:15:32 +0800</pubDate>
-      
-      <guid>https://www.ironskylark.ml/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
     </item>
     
   </channel>
