@@ -32,7 +32,7 @@ paginate = 10
 
 [params]
   author = "铁云雀" # You can also set author in post front matter individually
-  subTitle = "Iron Skylark"
+  subTitle = "要坚持真理——不论在哪里也不要动摇"
 
   # Source URL of the website, will appear in the footer
   sourceURL = "https://www.ironskylark.ml"
@@ -73,8 +73,8 @@ paginate = 10
   # bgmImageChart = "000000"
 
   # License
-  license = "CC BY-NC-SA 4.0"
-  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+  license = "知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)"
+  licenseLink = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
   # Comments
   # utterances, see: https://utteranc.es/
