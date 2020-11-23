@@ -21,4 +21,4 @@ showToc = false
 
 出于安全考虑，我们建议您将投稿内容作为**邮件正文**或使用**纯文本文件**（如.txt或.md）作为附件发送，**本站不会接收除纯文本文件以外的附件**（如.doc .docx .pdf等）。
 
-联络邮箱：[ironskylark@mail.com](mailto:ironskylark@mail.com)
+联络邮箱：[inboxskylark@protonmail.com](mailto:inboxskylark@protonmail.com)
